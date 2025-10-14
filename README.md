@@ -85,5 +85,7 @@ Data visualization and storytelling
 ## Screenshots
 ![image_alt](https://github.com/saikirannn77/Data-Analysis-Project/blob/6463dee7d7e7d149cbd3cda461a03f1f194e468d/Screenshot%202025-10-14%20212318.png)
 
+![image_alt](https://github.com/saikirannn77/Data-Analysis-Project/blob/75230030870629c706a7c0868a45adc48ebbdd3c/Screenshot%202025-10-14%20212604.png)
 
+![image_alt](https://github.com/saikirannn77/Data-Analysis-Project/blob/75230030870629c706a7c0868a45adc48ebbdd3c/Screenshot%202025-10-14%20212715.png)
 
