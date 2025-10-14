@@ -81,3 +81,9 @@ Data visualization and storytelling
 3. Analyze impact of goal size, backers, and duration on success
 
 4. Provide business-ready visual dashboards for decision-making
+
+## Screenshots
+![image_alt](https://github.com/saikirannn77/Data-Analysis-Project/blob/6463dee7d7e7d149cbd3cda461a03f1f194e468d/Screenshot%202025-10-14%20212318.png)
+
+
+
